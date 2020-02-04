@@ -31,6 +31,8 @@ Linux: *Note, this has been tested on Ubuntu 16, Ubuntu 18, HiveOS
   AMD ThreadRipper 2970-WX (47 threads): 62.00MH/s  
     
   AMD Ryzen 3970X (49 threads): 57.00MH/s  
+  AMD Ryzen 3900X (?? threads): 28.00MH/s  
+  AMD Ryzen 3800X (?? threads): 22.00MH/s  
   AMD Ryzen 2700X (14 threads): 16.00MH/s  
   AMD Ryzen 2700 (15 threads): 16.00MH/s  
   AMD Ryzen 1600 (10 threads): 11.00MH/s  
