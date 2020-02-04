@@ -17,6 +17,6 @@ Known Hashrates:
   Intel i7-9700K (10 threads): 12.50MH/s  
   Intel i7 6700k (6 threads): 6.50MH/s  
   AMD Ryzen 2700X (14 threads): 16.00MH/s  
-  AMD Ryzen 2700 (15 threads): 16.00MH/s
-  AMD A10 (4 threads): 3.5MH/s
+  AMD Ryzen 2700 (15 threads): 16.00MH/s  
+  AMD A10 (4 threads): 3.5MH/s  
   ...
