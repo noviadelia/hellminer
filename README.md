@@ -15,7 +15,7 @@ Linux: *Note, this has been tested on Ubuntu 16, Ubuntu 18, HiveOS
 Known Hashrates:  
   Intel i9-7900X (18 threads): 20.00MH/s  
   Intel i7-9700K (10 threads): 12.50MH/s  
-  Intel i7 6700K (6 threads): 6.50MH/s  
+  Intel i7-6700K (6 threads): 6.50MH/s  
   Intel i7-4170HQ (5 threades): 4.60MH/s  
   Intel i7-5500U (3 threads): 2.45MH/s  
   Intel i5-5200U (2 threads): 1.50MH/s    
