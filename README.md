@@ -12,3 +12,7 @@ Linux: *Note, this has been tested on Ubuntu 16, Ubuntu 18, HiveOS
   https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
   
   
+Known Hashrates:  
+  Intel i9-7900X: 20MH/s 
+  Intel i7-9700K: 12.5MH/s
+  ...
