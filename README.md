@@ -18,7 +18,7 @@ Linux: *Note, this has been tested on Ubuntu 16, Ubuntu 18, HiveOS
   Intel i7-6700K (6 threads): 6.50MH/s  
   Intel i7-4170HQ (5 threads): 4.60MH/s  
   Intel i7-5500U (3 threads): 2.45MH/s  
-  Intel i5-8600k (6 threads): 10.45MH/s  
+  Intel i5-8600K (6 threads): 10.45MH/s  
   Intel i5-5200U (2 threads): 1.50MH/s    
   Intel i3-8100 (4 threads): 5.00MH/s  
   Intel i3-7100 (3 threads): 3.50MH/s  
