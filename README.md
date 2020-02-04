@@ -32,7 +32,7 @@ This github page is used for Issue tracking of LuckPool and other pool related t
   AMD Opteron 6276 (31 threads): 15.62 MH/s  
   
   AMD Ryzen 3970X (49 threads): 57.00MH/s  
-  AMD Ryzen 3900X (?? threads): 28.00MH/s  
+  AMD Ryzen 3900X (24 threads): 31.10MH/s  
   AMD Ryzen 3800X (?? threads): 22.00MH/s  
   AMD Ryzen 2700X (14 threads): 16.00MH/s  
   AMD Ryzen 2700 (15 threads): 16.00MH/s  
