@@ -1,5 +1,5 @@
 # LuckPool
-This github page is used for Issue tracking of LuckPool and other general information.
+This github page is used for Issue tracking of LuckPool and other pool related things.
 
 
 ## Hellminer Veruhash 2.1 CPU Miner (For CPUs that support SSE/AVX)
