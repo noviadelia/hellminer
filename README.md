@@ -23,7 +23,7 @@ Linux: *Note, this has been tested on Ubuntu 16, Ubuntu 18, HiveOS
   Intel i3-8100 (4 threads): 5.00MH/s  
   Intel i3-7100 (3 threads): 3.50MH/s  
     
-  Dual Xeon E5-2697v2 (46 threads): 27.77MHs  
+  Dual Xeon E5-2697v2 (46 threads): 27.77MH/s  
   Dual Xeon E5-2620v2 (20 threads): 10.50MH/s  
   
   AMD Opteron 6276 (31 threads): 15.62 MH/s  
