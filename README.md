@@ -2,7 +2,7 @@
 This github page is used for Issue tracking of LuckPool and other pool related things.
 
 
-## Hellminer Veruhash 2.1 CPU Miner (For CPUs that support SSE/AVX)
+## Hellminer Veruhash 2.1 CPU Miner (CPUs with SSE/AVX) [No DevFee]
 Windows AVX2: *Note, **CPU must support AVX2** or you will get 0.0MH/s*  
   https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_win64_avx2.zip  
 Windows AVX: *Note, this version works on **Xeon Processors without AVX2***  
