@@ -26,7 +26,7 @@ Linux: *Note, this has been tested on Ubuntu 16, Ubuntu 18, HiveOS
   Dual Xeon E5-2697v2 (46 threads): 27.77MH/s  
   Dual Xeon E5-2620v2 (20 threads): 10.50MH/s  
   
-  AMD ThreadRipper 2990-WX (63 threads): 70.00MH/s  
+  AMD ThreadRipper 2990-WX (63 threads): 72.00MH/s  
   AMD ThreadRipper 2970-WX (47 threads): 62.00MH/s  
   
   AMD Opteron 6276 (31 threads): 15.62 MH/s  
