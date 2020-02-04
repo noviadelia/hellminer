@@ -13,6 +13,6 @@ Linux: *Note, this has been tested on Ubuntu 16, Ubuntu 18, HiveOS
   
   
 Known Hashrates:  
-  Intel i9-7900X: 20MH/s 
-  Intel i7-9700K: 12.5MH/s
+  Intel i9-7900X: 20MH/s  
+  Intel i7-9700K: 12.5MH/s  
   ...
