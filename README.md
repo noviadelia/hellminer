@@ -25,10 +25,13 @@ Known Hashrates:
   Dual Xeon E5-2620v2 (20 threads): 10.50MH/s  
     
   AMD Opteron 6276 (31 threads): 15.62 MH/s  
+    
   AMD ThreadRipper 2970-WX (47 threads): 62.00MH/s  
+    
   AMD Ryzen 3970X (49 threads): 57.00MH/s  
   AMD Ryzen 2700X (14 threads): 16.00MH/s  
   AMD Ryzen 2700 (15 threads): 16.00MH/s  
   AMD Ryzen 1600 (10 threads): 11.00MH/s  
+    
   AMD A10 (4 threads): 3.50MH/s  
   ...  
