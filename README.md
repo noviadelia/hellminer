@@ -26,7 +26,7 @@ This github page is used for Issue tracking of LuckPool and other pool related t
   Dual Xeon E5-2697v2 (46 threads): 27.77MH/s  
   Dual Xeon E5-2620v2 (20 threads): 10.50MH/s  
   
-  AMD ThreadRipper 3990X OC@4.1GHz (128 threads): 168.00MH/s  
+  AMD ThreadRipper 3990X (4.1GHz OC) (128 threads): 168.00MH/s  
   AMD ThreadRipper 2990WX (63 threads): 72.00MH/s  
   AMD ThreadRipper 2970WX (47 threads): 62.00MH/s  
   
