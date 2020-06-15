@@ -14,10 +14,10 @@ This github page is used for Issue tracking of LuckPool and other pool related t
   https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
 
 
-### Known Hashrates: [V2.2]
-  * Expected to be very similar to v2.1 algo, results pending ...  
+### Known Hashrates: [V2.2 ALGO]
+  * Expected to be very similar to V2.1 algo, pending miner submissions ...  
 
-### Known Hashrates: [OUTDATED V2.1]
+### Known Hashrates: [V2.1 ALGO]
   Intel i9-7900X (18 threads): 20.00MH/s  
   Intel i7-8700K (10 threads): 12.50MH/s  
   Intel i7-6700K (6 threads): 6.50MH/s  
